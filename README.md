@@ -4,6 +4,6 @@ I’m a PhD candidate in symmetric cryptography at Radboud University, the Nethe
 
 ### Contact:
 
-🌐 https://www.cs.ru.nl/~aguinet/
+🌐 https://annagui.net/
 
 📧 email (at) annagui.net
