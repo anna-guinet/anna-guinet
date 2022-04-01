@@ -1,6 +1,6 @@
 ## ✨ Hi, I am Anna Guinet ✨
 
-I’m a PhD candidate in RUB, Bochum, Germany.
+I’m a PhD candidate at Ruhr Universität Bochum, Germany.
 
 ### Contact:
 
