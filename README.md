@@ -4,6 +4,6 @@ I’m a PhD candidate at Ruhr Universität Bochum, Germany.
 
 ### Contact:
 
-🌐 https://annagui.net/
+🌐 https://www.annagui.net/
 
 📧 email (at) annagui.net
